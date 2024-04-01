@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.imagery4-fonts.shopifysvc.com	TRUE	/	FALSE	1999999999	__cf_bm	mOufdqSfmr1N2SlqB1yzlgxB94di3RkkurPnWa4wyi8-1688399382-0-AcLDw+fdmq+MNhrqcPOazEkj+KN6zmb0UzA51Owzz/kAowgUcEjRgw0YAq5y/wV9iSo8ccbHdKSCf9OpmlvoFAk=
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_secure_session_id	6c24164c4c197a9d4aeade0eee351d66
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22GB%22%2C%22sale_of_data_region%22%3Afalse%7D
+.cdn.shopify.com	TRUE	/	FALSE	1999999999	__cf_bm	Dw25aGOte7cWGFmXmbLN9ikC_J9trH1_jEaOqQjR3Fs-1688400146-0-Ab+zGIZvyzbTFa4WZFDCukc9EUIJE49wqdDRckhiizu+w5XNnNtFppmRgRXy9TW8femwO9nj2iZF6SjY72FxTs4=
+cdn.shopify.com	TRUE	/	FALSE	1999999999	SameSite	None
+buygermanpharma.com	TRUE	/	FALSE	1999999999	localization	US
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_y	cebe7cb4-4814-4e5e-a78e-857ce2aec6e4
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_s	2c3c2543-e413-4a3f-97cb-41c8f802e458
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_shopify_y	cebe7cb4-4814-4e5e-a78e-857ce2aec6e4
+buygermanpharma.com	TRUE	/	FALSE	1999999999	_shopify_s	2c3c2543-e413-4a3f-97cb-41c8f802e458
+.buygermanpharma.com	TRUE	/	FALSE	1999999999	__cf_bm	Dx1Fh6KlYB_pH0Uju.OQzXKESxuDfKo5S4AdEN5Bzjk-1688400165-0-AbIg1YS3I9jyEW7+jqtmo5aLpSpbgdjxJv2uqAuu0tzNw95CHawFjzPvrl4JpBy2Tcyn33DHKlWYX7Qw+vlBIHk=
+buygermanpharma.com	TRUE	/	FALSE	1999999999	SameSite	None
+
